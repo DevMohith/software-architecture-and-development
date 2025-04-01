@@ -47,7 +47,7 @@ CORS for secure API communication
 
 Swagger for API documentation
 
-🛠️ Microservices Architecture
+- Microservices Architecture
 
 This project follows a Microservices Architecture, meaning that different functionalities are split into independent services. Each microservice runs separately and communicates through an API Gateway.
 
